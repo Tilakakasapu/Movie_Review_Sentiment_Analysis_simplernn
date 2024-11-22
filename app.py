@@ -31,7 +31,7 @@ good = Image.open('images.png')
 
 # UI Design
 st.title("📊 Review Sentiment Analysis App")
-st.image(header_image ,use_container_width=True)
+st.image(header_image)
 
 st.markdown(
     """
